@@ -16,6 +16,9 @@ classification
 Rural 	2217 	12 	489.48
 Urban 	1862 	88 	3589.52
 
+### Original Project Presentation
+[Drug Mortality and Socio-Economic conditions in Connecticut.pptx](Original Powerpoint presentation)
+
 ### Project Proposal      
 We are looking to analyze trends in drug overdose death rates in Connecticut and suggest improvements in data collection. And the research of the project aims to answer the following questions:    
 
