@@ -1,5 +1,20 @@
 # **DataViz-Project1: Drug Mortality and Socio-Economic Conditions in Connecticut**     
 
+### Extension
+This is an extension to the project submitted as part of coursework submitted towards Project 1 for April 2018 UT Data Sciencce and Visualization Bootcamp. The following extensions have been made.
+
+1. Use line plot to visualize the number of deaths for each drug by year. This shows a previously unobserved treand that Heroin overdose deaths have come down in the last year. Impact of almost half the drugs is holding the same over years.
+![png](Output/DeathsByDrug_line.png)
+
+2. City-by-city visualization of the number of deaths.
+![png](Output/death_totals_city.png)
+
+3. Comparison between Rural and Urban area deaths. The classification of cities is from Census data. Connecticut is very urban (88%), but rural areas are very disproportionately affected.
+
+ 	Number of Deaths 	Population Ratio 	Expected Deaths
+classification 			
+Rural 	2217 	12 	489.48
+Urban 	1862 	88 	3589.52
 
 ### Project Proposal      
 We are looking to analyze trends in drug overdose death rates in Connecticut and suggest improvements in data collection. And the research of the project aims to answer the following questions:    
@@ -459,5 +474,3 @@ Your presentation must:
 
 * Questions
   * Open-floor Q&amp;A with the audience
-
-
