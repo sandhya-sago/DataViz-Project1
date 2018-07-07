@@ -18,7 +18,7 @@ This is an extension to the project submitted as part of coursework submitted to
 |                |                  |                  |                 | 
 
 ### Original Project Presentation
-[Drug Mortality and Socio-Economic conditions in Connecticut.pptx](Original Powerpoint presentation)
+[https://github.com/sandhya-sago/DataViz-Project1/blob/master/Drug%20Mortality%20and%20Socio-Economic%20conditions%20in%20Connecticut.pptx](Original Powerpoint presentation)
 
 ### Project Proposal      
 We are looking to analyze trends in drug overdose death rates in Connecticut and suggest improvements in data collection. And the research of the project aims to answer the following questions:    
