@@ -11,10 +11,11 @@ This is an extension to the project submitted as part of coursework submitted to
 
 3. Comparison between Rural and Urban area deaths. The classification of cities is from Census data. Connecticut is very urban (88%), but rural areas are very disproportionately affected.
 
- 	Number of Deaths 	Population Ratio 	Expected Deaths
-classification 			
-Rural 	2217 	12 	489.48
-Urban 	1862 	88 	3589.52
+| Classification | Number of Deaths | Population Ratio | Expected Deaths |   
+|----------------|------------------|------------------|-----------------|
+|  Rural         | 2217             | 12               | 489.48          |   
+| Urban          | 1862             | 88               | 3589.52         |   
+|                |                  |                  |                 | 
 
 ### Original Project Presentation
 [Drug Mortality and Socio-Economic conditions in Connecticut.pptx](Original Powerpoint presentation)
