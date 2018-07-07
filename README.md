@@ -1,7 +1,7 @@
 # **DataViz-Project1: Drug Mortality and Socio-Economic Conditions in Connecticut**     
 
 ### Extension
-This is an extension to the project submitted as part of coursework submitted towards April 2018 UT Data Science and Visualization Bootcamp [https://github.com/krashilili/DataViz-Project1](Project 1). The following extensions have been made.
+This is an extension to the project submitted as part of coursework submitted towards April 2018 UT Data Science and Visualization Bootcamp [https://github.com/krashilili/DataViz-Project1] (Project 1). The following extensions have been made.
 
 1. Use line plot to visualize the number of deaths for each drug by year. This shows a previously unobserved treand that Heroin overdose deaths have come down in the last year. Impact of almost half the drugs is holding the same over years.
 ![png](Output/DeathsByDrug_line.png)
